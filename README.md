@@ -115,7 +115,7 @@ skill-name/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/skills.git ~/.claude-code/skills
+git clone https://github.com/VIDORETTO/AI-Agent-Skills.git ~/.claude-code/skills
 ```
 
 2. Ou copie skills específicas para a pasta de skills do Claude Code:
@@ -134,7 +134,7 @@ cp -r skills/landing-page-builder ~/.claude-code/skills/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/skills.git ~/cline-skills
+git clone https://github.com/VIDORETTO/AI-Agent-Skills.git ~/cline-skills
 ```
 
 2. Configure o Cline para usar a pasta:
@@ -153,7 +153,7 @@ git clone https://github.com/yourusername/skills.git ~/cline-skills
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/skills.git ~/.antigravity/skills
+git clone https://github.com/VIDORETTO/AI-Agent-Skills.git ~/.antigravity/skills
 ```
 
 2. Configure no arquivo `~/.antigravity/config.yaml`:
@@ -174,7 +174,7 @@ skills:
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/skills.git ~/.continue/skills
+git clone https://github.com/VIDORETTO/AI-Agent-Skills.git ~/.continue/skills
 ```
 
 2. Configure no arquivo `~/.continue/config.json`:
@@ -190,7 +190,7 @@ git clone https://github.com/yourusername/skills.git ~/.continue/skills
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/yourusername/skills.git ~/cursor-skills
+git clone https://github.com/VIDORETTO/AI-Agent-Skills.git ~/cursor-skills
 ```
 
 2. No Cursor, vá para Settings → Skills → Add Skill Directory
